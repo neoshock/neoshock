@@ -33,6 +33,23 @@ About me
   <img src="https://img.shields.io/badge/-Design%20Patterns-%23007ACC?style=for-the-badge" alt="Design Patterns" />
 </p>
 
+## 🚀 DevOps
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Codemagic-FF003D?style=for-the-badge&logo=codemagic&logoColor=white" alt="Codemagic" />
+</p>
+
+I use Codemagic as my main CI/CD tool for Flutter applications. With Codemagic, I automate the entire development process from building to testing, and deployment. 
+
+## 📱 My Finance App
+
+<p align="center">
+  <a href='https://play.google.com/store/apps/details?id=com.neoshock.finanzas'><img align="center" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt='Get it on Google Play' width='200'/></a>
+</p>
+
+I developed a personal finance application, available now on the Google Play Store. The application is designed to help users manage their finances effectively with a clean, intuitive user interface. It was built entirely with Flutter and utilizes Firebase for backend services. 
+
+
 
 ## 📊 My GitHub Stats
 
