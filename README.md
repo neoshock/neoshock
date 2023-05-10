@@ -21,7 +21,8 @@ About me
 
 😄 Pronouns: He/Him
 ⚡ Fun fact: When I'm not coding, you'll find me exploring the great outdoors or trying out new recipes.
-My GitHub Stats
+
+## 📊 My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neoshock&show_icons=true&theme=tokyonight)
 
