@@ -27,12 +27,12 @@ My GitHub Stats
   <summary>:zap: GitHub Stats</summary>
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neoshock&show_icons=true&theme=tokyonight)
 </details>
+
 <details>
   <summary>:zap: Most Used Languages</summary>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neoshock&theme=tokyonight)
-Top Langs
-
 </details>
+
 Connect with me
 
 Feel free to reach out or just say hi, I'll be happy to connect with you!
