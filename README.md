@@ -23,15 +23,9 @@ About me
 ⚡ Fun fact: When I'm not coding, you'll find me exploring the great outdoors or trying out new recipes.
 My GitHub Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neoshock&show_icons=true&theme=tokyonight)
-</details>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neoshock&show_icons=true&theme=tokyonight)
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neoshock&theme=tokyonight)
-</details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neoshock&theme=tokyonight)
 
 Connect with me
 
