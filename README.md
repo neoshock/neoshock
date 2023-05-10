@@ -19,7 +19,6 @@ About me
 
 📫 How to reach me: LinkedIn | Email
 
-😄 Pronouns: He/Him
 ⚡ Fun fact: When I'm not coding, you'll find me exploring the great outdoors or trying out new recipes.
 
 ## 🛠 Skills
