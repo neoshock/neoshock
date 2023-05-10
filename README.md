@@ -1,7 +1,7 @@
 Hi there, I'm Josue Alcivar 👋
 
-Flutter Developer
-Software Engineer
+![Flutter Developer](https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge&logo=flutter&logoColor=white)
+![Software Engineer](https://img.shields.io/badge/Software-Engineer-%23007ACC?style=for-the-badge&logo=software&logoColor=white)
 
 Welcome to my special corner of GitHub! I'm a Software Engineer specialized in Flutter Development, with a knack for creating attractive interfaces.
 
